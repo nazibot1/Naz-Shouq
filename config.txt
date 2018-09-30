@@ -1,6 +1,6 @@
 token=NDk0NjE0NTI5NDE4OTg1NDcy.Do2FRA.VGg9FirNQ-SwGtrv-LY6_GfyZIE
 owner=465701100352176128
-prefix=NN
+prefix=#p
 game=
 stayinchannel=true
 songinstatus=false
